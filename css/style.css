@@ -1,0 +1,204 @@
+.text{
+	color: #3D58A6
+	margin-left:50px;
+}
+
+.navigation{
+	margin-left:50px;
+	display:inline-block;
+	vertical-align:middle;
+ }
+
+
+
+.logo{
+
+	display:inline-block;
+
+	vertical-align:middle;
+	margin-left:35px;
+
+
+
+}
+
+.nav-1{
+	color: #EE4036
+}
+.nav-li{
+	display:inline-block;
+	margin-right:22px;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	
+}
+
+
+.left-block{
+	display: inline-block;
+	width:570px;
+	margin-right:29px;
+	background-color:#F2F2F2;
+	padding-top:13px;
+	margin-left:98px;
+}
+
+
+
+
+
+.right-block{
+
+	display: inline-block;
+	width:570px;
+	background-color:#F2F2F2;
+	padding-top:13px;}
+
+
+
+ 
+.section-title{
+
+	margin-bottom:31px;
+	margin-top:117.6px; 
+	margin-left:98px;
+	font-family: 'Source Sans Pro';
+}
+
+.image-block{
+	display: inline-block;
+	vertical-align:middle;
+	margin-right:60px;
+
+
+
+}
+
+.text-block{
+	display: inline-block;
+	width:352px;
+	vertical-align:middle;
+	font-family: 'Roboto', sans-serif;
+}
+
+.title-block{
+	margin-bottom:13px;
+	color:#3D58A6;
+}
+
+.footer-image{
+	
+	margin-top:62px;
+
+
+}
+
+
+.divider{
+	width:2px;
+	height:27px;
+	background-color:#363E97;
+	display:inline-block;
+	margin-right:35px;
+	margin-left:35px;
+
+}
+
+.date{
+
+	width:52px;
+	height:64px;
+	background-color:#3D58A6;
+	font-size:48px;
+	color:#FFFFFF;
+	margin-top:35px;}
+
+.month{
+	color:#3D58A6;
+	font-size:22px;}
+	
+.article-title{
+
+	color: #000000
+	font-size:20PX;
+	margin-top:27px;
+	margin-bottom:27px;
+	font-family: 'ALK Rounded Mtav Med';
+    }
+	
+	
+
+
+.block-A{
+
+    display: inline-block;
+	width:929px;
+	vertical-align:top;
+	margin-left:39px;
+	color: #000000
+
+ }
+
+
+
+
+.block-image-A{
+
+	display: inline-block;
+	margin-bottom:138px;
+
+}
+
+.block-article{
+	margin-top:20px;
+	margin-bottom:20px;
+
+
+
+}
+
+.photo-size{
+
+	margin-top:76px;
+	margin-left:98px;
+	margin-right:98px;
+}
+
+.information{
+	color:#3D58A6;
+	font-size:20px;
+	margin-bottom:16px;
+
+}
+.maps{
+	width:848.5;
+	height:464.5;}
+	
+.contact{
+
+	color:#808080;
+	font-size:16px;
+}
+
+.block-information{
+
+	width:258px;
+	height:93px;
+	display:inline-block;
+	vertical-align:top;
+	margin-top:80px;
+	margin-left:97px;
+	margin-right:66px;
+}
+
+.block-map{
+	width:848.5;
+	height:464.5;
+	display:inline-block;
+	
+	margin-top:63px;
+
+	
+
+
+}
+
